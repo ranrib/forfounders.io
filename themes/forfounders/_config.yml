@@ -1,0 +1,51 @@
+# Website's icon url.
+favicon: /favicon.png
+
+# Open Graph metadata (https://hexo.io/docs/helpers.html#open-graph)
+open_graph:
+  twitter_id:
+  twitter_site:
+  google_plus:
+  fb_admins:
+  fb_app_id:
+
+# Website's logo shown on the left of the navigation bar.
+# It can either be an url to an image or a string if the following option is set.
+# logo:
+#   text: <logo string>
+logo:
+
+article:
+  readtime: true
+  highlight: atom-one-light
+  date_format: full_relative
+
+menu:
+  Blog: /tags/blog
+  Podcast: /tags/podcast
+  About: /about
+
+search:
+  type: insight
+
+toc: false
+
+plugins:
+  mathjax: false
+  katex: false
+  gallery: false
+  clipboard: true
+  google-analytics:
+    tracking_id: G-82M11FYLK0
+
+navbar_links:
+  Spotify:
+    icon: fab fa-spotify
+    url: https://open.spotify.com/show/7vC4mEgUTKe7BJNzdHBvPo
+  ApplePodcasts:
+    icon: fa fa-podcast
+    url: https://podcasts.apple.com/us/podcast/המייסדים/id1628004036
+
+# Links at the bottom of the page.
+# footer_links:
+#   GitHub: https://github.com/ppoffice/hexo-theme-minos
