@@ -24,7 +24,8 @@ if (languages.length > 1) {
 
 <% if (has_config('open_graph')) { %>
     <%- open_graph({
-        image: get_config('image')
+        image: get_config('image'),
+        twitter_card: 'summary_large_image'
     }) %>
 <% } %>
 
