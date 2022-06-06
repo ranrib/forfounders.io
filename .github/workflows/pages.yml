@@ -27,5 +27,3 @@ jobs:
         run: npm run build
       - name: Deploy
         run: hexo clean && hexo deploy
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
