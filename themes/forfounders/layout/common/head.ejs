@@ -52,7 +52,25 @@ if (languages.length > 1) {
 
 <%- css('css/style') %>
 
-<script defer src="//use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+<script defer src="//use.fontawesome.com/releases/v6.1.1/js/all.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.51/darkreader.min.js"></script>
+
+<script>
+const darkReaderConfig = {
+    brightness: 120,
+    contrast: 100,
+    sepia: 0
+}
+
+const toggleDark = function() {
+    if (DarkReader.isEnabled()) {
+        DarkReader.disable();
+    } else {
+        DarkReader.enable(darkReaderConfig);
+    }
+};
+</script>
 
 <% if (has_config('plugins')) { %>
     <% for (let plugin in get_config('plugins')) { %>

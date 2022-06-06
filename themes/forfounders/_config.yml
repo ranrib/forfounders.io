@@ -1,5 +1,4 @@
-# Website's icon url.
-favicon: /favicon.png
+favicon: /images/favicon.png
 
 # Open Graph metadata (https://hexo.io/docs/helpers.html#open-graph)
 open_graph:
@@ -8,12 +7,6 @@ open_graph:
   google_plus:
   fb_admins:
   fb_app_id:
-
-# Website's logo shown on the left of the navigation bar.
-# It can either be an url to an image or a string if the following option is set.
-# logo:
-#   text: <logo string>
-logo:
 
 article:
   readtime: true
@@ -42,10 +35,10 @@ navbar_links:
   Spotify:
     icon: fab fa-spotify
     url: https://open.spotify.com/show/7vC4mEgUTKe7BJNzdHBvPo
-  ApplePodcasts:
+  Apple Podcasts:
     icon: fa fa-podcast
     url: https://podcasts.apple.com/us/podcast/המייסדים/id1628004036
+  Google Podcasts:
+    icon: fab fa-google
+    url: https://open.spotify.com/show/7vC4mEgUTKe7BJNzdHBvPo
 
-# Links at the bottom of the page.
-# footer_links:
-#   GitHub: https://github.com/ppoffice/hexo-theme-minos
