@@ -101,5 +101,5 @@ theme: forfounders
 
 deploy:
   type: git
-  repo: https://github.com/ranrib/forfounders.io
+  repo: https://oauth2:{$GH_TOKEN}@github.com/ranrib/forfounders.io
   branch: gh-pages
