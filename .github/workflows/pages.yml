@@ -31,4 +31,4 @@ jobs:
       - name: Build
         run: npm run build
       - name: Deploy
-        run: npm run clean && npm run deploy
+        run: npm run clean && GITHUB_TOKEN=${GH_TOKEN} npm run deploy
