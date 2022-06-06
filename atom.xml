@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>For Founders</title>
+  <icon>https://forfounders.io/images/logo.png</icon>
+  <subtitle>Nitzan Shapira and Ran Ribenzaft, the founders of Epsagon (acquired by Cisco), share their stories, examples, and experience on startups - from an idea all the way to success.</subtitle>
+  <link href="https://forfounders.io/atom.xml" rel="self"/>
+  
+  <link href="https://forfounders.io/"/>
+  <updated>2022-06-06T13:49:48.849Z</updated>
+  <id>https://forfounders.io/</id>
+  
+  <author>
+    <name>Nitzan Shapira and Ran Ribenzaft</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Sales vs. Marketing - Who Should You Hire First?</title>
+    <link href="https://forfounders.io/sales-vs-marketing-first-hire/"/>
+    <id>https://forfounders.io/sales-vs-marketing-first-hire/</id>
+    <published>2022-06-06T10:40:16.000Z</published>
+    <updated>2022-06-06T13:49:48.849Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;img</summary>
+        
+      
+    
+    
+    <content src="https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1674&amp;q=80" type="image"/>
+    
+    
+    
+    <category term="blog" scheme="https://forfounders.io/tags/blog/"/>
+    
+    <category term="sales" scheme="https://forfounders.io/tags/sales/"/>
+    
+    <category term="marketing" scheme="https://forfounders.io/tags/marketing/"/>
+    
+    <category term="hiring" scheme="https://forfounders.io/tags/hiring/"/>
+    
+    <category term="startups" scheme="https://forfounders.io/tags/startups/"/>
+    
+  </entry>
+  
+</feed>
