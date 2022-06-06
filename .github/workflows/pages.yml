@@ -9,11 +9,12 @@ jobs:
   pages:
     runs-on: ubuntu-latest
     steps:
-      - name: Commit files
+      - name: Set data
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git config --global init.defaultBranch "gh-pages"
+          export GITHUB_TOKEN=${GH_TOKEN}
       - uses: actions/checkout@v2
       - name: Use Node.js 14.x
         uses: actions/setup-node@v2
@@ -31,4 +32,4 @@ jobs:
       - name: Build
         run: npm run build
       - name: Deploy
-        run: npm run clean && GITHUB_TOKEN=${GH_TOKEN} npm run deploy
+        run: npm run clean && npm run deploy
