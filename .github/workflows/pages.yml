@@ -1,35 +1,23 @@
-name: Pages
-
+name: Build and Deploy
 on:
   push:
     branches:
       - main
-
 jobs:
-  pages:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Set data
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+
+      - name: Install and Build 🔧
         run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git config --global init.defaultBranch "gh-pages"
-          export GITHUB_TOKEN=${GH_TOKEN}
-      - uses: actions/checkout@v2
-      - name: Use Node.js 14.x
-        uses: actions/setup-node@v2
+          npm install
+          npm run build
+          echo "forfounders.io" > public/CNAME
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
-          node-version: '14'
-      - name: Cache NPM dependencies
-        uses: actions/cache@v2
-        with:
-          path: node_modules
-          key: ${{ runner.OS }}-npm-cache
-          restore-keys: |
-            ${{ runner.OS }}-npm-cache
-      - name: Install Dependencies
-        run: npm install
-      - name: Build
-        run: npm run build
-      - name: Deploy
-        run: npm run clean && npm run deploy
+          branch: gh-pages
+          folder: public

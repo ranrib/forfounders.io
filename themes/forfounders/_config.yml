@@ -14,8 +14,7 @@ article:
   date_format: full_relative
 
 menu:
-  Blog: /tags/blog
-  Podcast: /tags/podcast
+  Blog: /
   About: /about
 
 search:

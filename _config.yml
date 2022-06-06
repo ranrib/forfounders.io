@@ -4,11 +4,12 @@
 
 # Site
 title: For Founders
-subtitle: 'subtitle'
-description: 'description'
-keywords:
+subtitle: 'Nitzan Shapira and Ran Ribenzaft, the founders of Epsagon (acquired by Cisco), share their stories, examples, and experience on startups - from an idea all the way to success.'
+description: 'Nitzan Shapira and Ran Ribenzaft, the founders of Epsagon (acquired by Cisco), share their stories, examples, and experience on startups - from an idea all the way to success.'
+keywords: [entrepreneurship, startups, sales, marketing, gotomarket, podcast, acquisition, epsagon]
 author: Nitzan Shapira and Ran Ribenzaft
 language: en
+image: /images/logo.png
 timezone: ''
 
 # URL
@@ -101,5 +102,16 @@ theme: forfounders
 
 deploy:
   type: git
-  repo: https://oauth2:{$GH_TOKEN}@github.com/ranrib/forfounders.io
+  repo: https://oauth2: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@github.com/ranrib/forfounders.io
   branch: gh-pages
+
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
+    hub:
+    content:
+    content_limit: 140
+    content_limit_delim: " "
+    order_by: -date
+    icon: /images/logo.png
