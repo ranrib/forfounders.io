@@ -25,14 +25,19 @@
 <meta property="og:locale" content="en_US">
 <meta property="article:author" content="Nitzan Shapira and Ran Ribenzaft">
 <meta property="article:tag" content="blog">
+<meta property="article:tag" content="sales">
+<meta property="article:tag" content="marketing">
+<meta property="article:tag" content="hiring">
+<meta property="article:tag" content="startups">
 <meta property="article:tag" content="podcast">
+<meta property="article:tag" content="entreprenourship">
 <meta name="twitter:card" content="summary">
 
 
 
 
 
-<link rel="icon" href="/favicon.png">
+<link rel="icon" href="/images/favicon.png">
 
 
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ovo|Source+Code+Pro">
@@ -46,7 +51,25 @@
 <link rel="stylesheet" href="/css/style.css">
 
 
-<script defer src="//use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+<script defer src="//use.fontawesome.com/releases/v6.1.1/js/all.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.51/darkreader.min.js"></script>
+
+<script>
+const darkReaderConfig = {
+    brightness: 120,
+    contrast: 100,
+    sepia: 0
+}
+
+const toggleDark = function() {
+    if (DarkReader.isEnabled()) {
+        DarkReader.disable();
+    } else {
+        DarkReader.enable(darkReaderConfig);
+    }
+};
+</script>
 
 
     
@@ -117,12 +140,21 @@
                 
             </a>
                
-            <a class="navbar-item" title="ApplePodcasts" target="_blank" rel="noopener" href="https://podcasts.apple.com/us/podcast/המייסדים/id1628004036">
+            <a class="navbar-item" title="Apple Podcasts" target="_blank" rel="noopener" href="https://podcasts.apple.com/us/podcast/המייסדים/id1628004036">
                 
                 <i class="fa fa-podcast"></i>
                 
             </a>
                
+            <a class="navbar-item" title="Google Podcasts" target="_blank" rel="noopener" href="https://open.spotify.com/show/7vC4mEgUTKe7BJNzdHBvPo">
+                
+                <i class="fab fa-google"></i>
+                
+            </a>
+               
+            <a class="navbar-item" title="Dark Mode" onClick="toggleDark();">
+                <i class="fas fa-circle-half-stroke"></i>
+            </a>
             
         </div>
     </div>
@@ -144,7 +176,27 @@
             </span>
             
             <span class="column is-narrow">
+                <a class="tag is-light article-tag" href="/tags/sales/">#sales&nbsp;(1)</a>
+            </span>
+            
+            <span class="column is-narrow">
+                <a class="tag is-light article-tag" href="/tags/marketing/">#marketing&nbsp;(1)</a>
+            </span>
+            
+            <span class="column is-narrow">
+                <a class="tag is-light article-tag" href="/tags/hiring/">#hiring&nbsp;(1)</a>
+            </span>
+            
+            <span class="column is-narrow">
+                <a class="tag is-light article-tag" href="/tags/startups/">#startups&nbsp;(2)</a>
+            </span>
+            
+            <span class="column is-narrow">
                 <a class="tag is-light article-tag" href="/tags/podcast/">#podcast&nbsp;(1)</a>
+            </span>
+            
+            <span class="column is-narrow">
+                <a class="tag is-light article-tag" href="/tags/entreprenourship/">#entreprenourship&nbsp;(1)</a>
             </span>
             
         </div>
@@ -154,7 +206,7 @@
     <div class="container">
         <div class="columns content">
             <div class="column is-narrow has-text-centered">
-                &copy; 2022 Nitzan Shapira and Ran Ribenzaft.
+                &copy; 2022 <a href="https://www.linkedin.com/in/nitzan-shapira-521291108/" target="blank">Nitzan Shapira</a> and <a href="https://www.linkedin.com/in/ran-ribenzaft/" target="blank">Ran Ribenzaft</a>.
             </div>
             <div class="column is-hidden-mobile"></div>
 
