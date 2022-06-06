@@ -103,3 +103,4 @@ deploy:
   type: git
   repo: https://github.com/ranrib/forfounders.io
   branch: gh-pages
+  token: $GH_TOKEN
