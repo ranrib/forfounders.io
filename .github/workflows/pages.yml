@@ -26,4 +26,4 @@ jobs:
       - name: Build
         run: npm run build
       - name: Deploy
-        run: hexo clean && hexo deploy
+        run: npm run clean && npm run deploy
