@@ -58,21 +58,32 @@
 
 <script defer src="//use.fontawesome.com/releases/v6.1.1/js/all.js"></script>
 
-<script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.51/darkreader.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+
 
 <script>
-const darkReaderConfig = {
-    brightness: 120,
-    contrast: 100,
-    sepia: 0
+const options = {
+  mixColor: '#fff',
+  backgroundColor: '#fff',
+  buttonColorDark: '#100f2c',  // default: '#100f2c'
+  buttonColorLight: '#fff',
+  saveInCookies: true,
+  autoMatchOsTheme: false
 }
+let darkmode;
+const setLogo = function() {
+    const logoFn = darkmode.isActivated() ? 'logo_dark' : 'logo';
+    document.getElementById('logo').src = `/images/${logoFn}.png`;
+};
+
+window.addEventListener('load', () => {
+    darkmode = new Darkmode(options);
+    setLogo();
+});
 
 const toggleDark = function() {
-    if (DarkReader.isEnabled()) {
-        DarkReader.disable();
-    } else {
-        DarkReader.enable(darkReaderConfig);
-    }
+    darkmode.toggle();
+    setLogo();
 };
 </script>
 
@@ -109,7 +120,7 @@ const toggleDark = function() {
         <div class="navbar-brand">
             <a class="navbar-item navbar-logo" href="/">
                 
-                <img src="/images/logo.png" alt="" height="28">
+                <img id="logo" src="/images/logo.png" alt="" height="28">
                 
             </a>
             <div class="navbar-burger">
@@ -179,22 +190,24 @@ const toggleDark = function() {
             <a href="/sales-vs-marketing-first-hire/" itemprop="url">Sales vs. Marketing - Who Should You Hire First?</a>
         
     </h1>
+    
     <div class="article-meta columns is-variable is-1 is-multiline is-mobile is-size-7-mobile">
         <span class="column is-narrow">
             
-                <span>Jun 6 2022</span>
-                <span class="second-date-block"> (<time datetime="2022-06-06T13:40:16.000Z" itemprop="datePublished">Jun 6 2022</time>)</span>
+                <span>Jun 6 2022 |</span>
             
         </span>
         
         
-        <span class="column is-narrow">
+        <span class="column second-date-block" style="    font-size: 0.9rem;">
             
             
-            a few seconds read (About 28 words)
+            <i class="fa-regular fa-clock"></i>
+            a few seconds read
         </span>
         
     </div>
+    
     <div class="article-entry is-size-6-mobile" itemprop="articleBody">
     
         <html><head></head><body><img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1674&amp;q=80" class="" title="Sales and Marketing">

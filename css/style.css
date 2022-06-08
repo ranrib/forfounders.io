@@ -2,6 +2,29 @@
 body, button, input, select, textarea {
   font-family: "Ovo", "Georgia", "STZhongsong", "Microsoft YaHei", serif; }
 
+body.darkmode--activated {
+  color: #e5dbcc;
+  background-color: #1e2020;
+  mix-blend-mode: unset; }
+
+.darkmode-layer {
+  background-color: unset !important; }
+
+.darkmode--activated .navbar {
+  background-color: #1e2020; }
+
+.darkmode--activated .navbar-main {
+  border-bottom-color: #494d4d; }
+
+.darkmode--activated .navbar-item, .darkmode--activated .navbar-link {
+  color: #e5dbcc; }
+
+.darkmode--activated .content h1, .darkmode--activated .content h2, .darkmode--activated .content h3, .darkmode--activated .content h4, .darkmode--activated .content h5, .darkmode--activated .content h6 {
+  color: #f5ecde; }
+
+.darkmode--activated .article .second-date-block {
+  color: #bbaf9b; }
+
 a.tag.article-tag {
   font-size: 0.9rem;
   text-decoration: none; }
