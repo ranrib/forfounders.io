@@ -6,6 +6,36 @@ body, button, input, select, textarea {
     font-family: $family-serif;
 }
 
+body.darkmode--activated {
+    color: rgb(229, 219, 204);
+    background-color: rgb(30, 32, 32);
+    mix-blend-mode: unset;
+}
+
+.darkmode-layer {
+    background-color: unset !important;
+}
+
+.darkmode--activated {
+    .navbar {
+        background-color: rgb(30, 32, 32);
+    }
+    .navbar-main {
+        border-bottom-color: rgb(73, 77, 77);
+    }
+    .navbar-item, .navbar-link {
+        color: rgb(229, 219, 204);
+    }
+
+    .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
+        color: rgb(245, 236, 222);
+    }
+
+    .article .second-date-block {
+        color: rgb(187, 175, 155);
+    }
+}
+
 
 a.tag.article-tag {
     font-size: 0.9rem;

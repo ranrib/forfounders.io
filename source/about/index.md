@@ -1,6 +1,7 @@
 ---
 title: About Us
-date: 2022-06-05 22:43:25
+no_date: true
+image: /images/us.jpg
 ---
 
 {% img /images/us.jpg '"Ran Ribenzaft and Nitzan Shapira"' %}

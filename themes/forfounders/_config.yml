@@ -11,7 +11,7 @@ open_graph:
 article:
   readtime: true
   highlight: atom-one-light
-  date_format: full_relative
+  date_format: full
 
 menu:
   Blog: /
