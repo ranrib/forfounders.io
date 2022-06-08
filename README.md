@@ -2,14 +2,14 @@
 
 ## Installation
 
-'''bash
+```sh
 git clone git@github.com:ranrib/forfounders.io.git
 cd forfounders.io
 npm install
-'''
+```
 
 ## Running
 
-'''bash
+```sh
 npm run server
-'''
+```
