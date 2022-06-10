@@ -398,7 +398,6 @@ a.tag.article-tag {
     background: transparent;
 
     .content {
-        padding-top: 2rem;
         border-top: 1px solid $border-color;
     }
 }
@@ -562,6 +561,14 @@ figure.highlight {
         min-width: inherit;
         border-radius: inherit;
     }
+}
+
+.section {
+    padding-bottom: 1rem;
+}
+
+.footer {
+    padding-top: 0.5rem;
 }
 
 .pagination {
