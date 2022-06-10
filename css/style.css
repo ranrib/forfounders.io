@@ -13,6 +13,13 @@ body.darkmode--activated {
 .darkmode--activated .navbar {
   background-color: #1e2020; }
 
+.darkmode--activated .navbar-menu {
+  background-color: #1e2020; }
+  .darkmode--activated .navbar-menu a.navbar-item.is-active {
+    background-color: #2f3333; }
+  .darkmode--activated .navbar-menu a.navbar-item:hover {
+    background-color: #2f3333; }
+
 .darkmode--activated .navbar-main {
   border-bottom-color: #494d4d; }
 
@@ -132,12 +139,6 @@ a.tag.article-tag {
   color: darkgray;
   font-size: .95rem;
   text-align: center; }
-
-.article a[target="_blank"]:after {
-  display: none;
-  content: "\f35d";
-  font-size: .8rem;
-  font-family: "Font Awesome 5 Solid"; }
 
 .article a[target="_blank"] .fa-external-link-alt {
   margin-left: .3rem;
