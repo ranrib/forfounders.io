@@ -17,10 +17,10 @@
                     <% if (has_config('logo.text') && get_config('logo.text')) { %>
                     <%= get_config('logo.text') %>
                     <% } else { %>
-                    <img id="logo" src="<%- url_for(get_config('logo')) %>" alt="" height="28">
+                    <img id="logo" src="<%- url_for(get_config('logo')) %>" alt="logo" height="28" width="120">
                     <% } %>
                 <% } else { %>
-                <img id="logo" src="<%- url_for('images/logo.png') %>" alt="" height="28">
+                <img id="logo" src="<%- url_for('images/logo.png') %>" alt="logo" height="28" width="120">
                 <% } %>
             </a>
             <div class="navbar-burger">
