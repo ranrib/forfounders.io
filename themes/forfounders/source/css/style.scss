@@ -20,6 +20,15 @@ body.darkmode--activated {
     .navbar {
         background-color: rgb(30, 32, 32);
     }
+    .navbar-menu {
+        background-color: rgb(30, 32, 32);
+        a.navbar-item.is-active {
+            background-color: #2f3333;
+        }
+        a.navbar-item:hover {
+            background-color: #2f3333;
+        }
+    }
     .navbar-main {
         border-bottom-color: rgb(73, 77, 77);
     }
@@ -195,13 +204,6 @@ a.tag.article-tag {
     }
 
     a[target="_blank"] {
-        &:after {
-            display: none;
-            content: "\f35d";
-            font-size: .8rem;
-            font-family: "Font Awesome 5 Solid";
-        }
-
         .fa-external-link-alt {
             margin-left: .3rem;
             width: .8rem;
