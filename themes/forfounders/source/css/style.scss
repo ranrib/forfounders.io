@@ -1,4 +1,4 @@
-$family-serif: "Ovo", "Georgia", "STZhongsong", "Microsoft YaHei", serif;
+$family-serif: "sohne", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 $family-mono: "Source Code Pro", monospace, "Microsoft YaHei";
 $border-color: #dbdbdb;
 
@@ -114,6 +114,11 @@ a.tag.article-tag {
         border-top: 1px solid $border-color;
     }
 
+    .article-title {
+        font-size: 32px;
+        font-weight: 700;
+    }
+
     .article-title a,
     .article-meta a {
         color: inherit;
@@ -153,6 +158,9 @@ a.tag.article-tag {
                 right: 100%;
             }
         }
+        font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+        font-size: 20px;
+        font-weight: 400;
 
         a {
             word-break: break-word;
