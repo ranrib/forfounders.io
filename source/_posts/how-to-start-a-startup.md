@@ -2,12 +2,11 @@
 title: How to Start a Startup?
 date: 2022-06-12 13:40:16
 tags: [blog, startups, entrepreneurship]
-image: https://images.unsplash.com/photo-1635144432103-47f3a18bae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0OTAzNDY5MA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080
+image: https://images.unsplash.com/photo-1635144432103-47f3a18bae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0OTAzNDY5MA&ixlib=rb-1.2.1&q=80&w=1080
 ---
 
-{% img https://images.unsplash.com/photo-1635144432103-47f3a18bae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0OTAzNDY5MA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080 800 600 '"Starting a Startup"' %}
+{% img https://images.unsplash.com/photo-1635144432103-47f3a18bae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0OTAzNDY5MA&ixlib=rb-1.2.1&q=80&w=1080 800 600 '"Starting a Startup"' %}
 
-#
 
 So you want to start a startup. How do you start? Let’s cover the basic steps.
 
