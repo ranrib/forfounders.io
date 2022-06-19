@@ -44,7 +44,7 @@ First of all, what is a market where you (or one of the founders) have unique ex
 
 Is this a big market? Is it growing fast enough? You want to see exponential growth. If it’s growing fast, you will have the market on your side. It’s not enough, but it’s better than fighting an uphill battle. How do you know your market size? It’s important to distinguish between the _domain size_ (“cloud spending will be $100B in 2022”) vs. your _specific_ market (“companies are spending $10B per year on troubleshooting cloud-native applications”). The latter is far more critical as it represents what you can sell to customers.
 
-Do you have a passion for the market? People often feel they need to have a passion for something to work on it. Our experience shows that you need to be careful. As entrepreneurs, we have always had a strong passion for _building great businesses_, first and foremost. To do this, we needed to raise money. To do that, we needed a market where are experts, and it is growing fast. Imagine the opposite - would you like to work on an exciting problem, only to stop working on it six months later because you couldn’t raise enough money? Of course, we are exaggerating, but we believe this is an important exercise.
+Do you have a passion for the market? People often feel they need to have a passion for something to work on it. Our experience shows that you need to be careful. As entrepreneurs, we have always had a strong passion for _building great businesses_, first and foremost. To do this, we needed to raise money. To do that, we needed a market where we are experts, and it is growing fast. Imagine the opposite - would you like to work on an exciting problem, only to stop working on it six months later because you couldn’t raise enough money? Of course, we are exaggerating, but we believe this is an important exercise.
 
 ## Don’t just start building
 
@@ -54,7 +54,7 @@ Don’t spend too much time on building the actual product. Building an MVP for 
 
 So you put a lot of thinking and believe that you should solve a problem in a big, growing market, where you have expertise. But this is still only what you think. Now is the time to validate it with the market.
 
-This part is relatively straightforward, but maybe founders struggle with it, or worse - skip it. The bottom line is that you need to speak with many potential customers to validate that they have the problem you think they have, and maybe even what you’d like to build will solve it for them.
+This part is relatively straightforward, but most founders struggle with it, or worse - skip it. The bottom line is that you need to speak with many potential customers to validate that they have the problem you think they have, and maybe even what you’d like to build will solve it for them.
 
 Assuming you’re a B2B startup, you probably need a few dozen calls with potential customers. Anything goes to get in front of these customers. Use your connections, or reach out to high-targeted leads (such as public speakers or bloggers) via email or LinkedIn. Hassling a bit can be beneficial at this stage. Try to go beyond your network, and bring some familiar logos that the investor will quickly identify. If a cold lead takes the call with you, it proves that your initial messaging to the market works and sparks customer interest. Use “warm-cold intros”: target people you don’t know, but you know a lot about them - “Hi John, I liked your talk about microservices at the AWS conference. Can I ask you a question about it?”
 
