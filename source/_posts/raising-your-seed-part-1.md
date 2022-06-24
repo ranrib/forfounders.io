@@ -63,7 +63,8 @@ From our experience, the most critical factor when fundraising is the person you
 
 ### Now what?
 
-In the next chapter, we will talk about how to reach out to investors, create a fundraising process, and meet investors to get the best result for your startup. Meanwhile, [subscribe to our newsletter][4] to get new blog posts in your inbox!
+In the next chapter, we will talk about how to reach out to investors, create a fundraising process, and meet investors to get the best result for your startup.
+Meanwhile, [subscribe to our newsletter][4] to get new blog posts in your inbox!
 
 [1]: https://www.seedready.org/journal/27-bootstrapped-startups-that-prove-you-dont-need-vc-money/
 [2]: https://tech.eu/2018/03/07/epsagon-funding/
