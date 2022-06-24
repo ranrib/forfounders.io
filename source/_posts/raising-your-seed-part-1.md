@@ -57,8 +57,7 @@ There are several factors you should think about when fundraising, including:
 - The round size
 - The valuation
 - The duration of the round
-- The VC
-- The person joining your board
+- The VC firm and the person joining your board
 
 From our experience, the most critical factor when fundraising is the person you will be working with closely during the next 5-10 years. So when deciding between different options, never choose someone, a person, or a firm that is not a good fit for you. That is always a no-go. However, you might be able to increase the valuation offered by the investor you want by having competing offers, so that’s always a good thing.
 
