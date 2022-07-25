@@ -7,6 +7,7 @@ image: https://images.unsplash.com/photo-1635144432103-47f3a18bae38?crop=entropy
 
 {% img https://images.unsplash.com/photo-1635144432103-47f3a18bae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0OTAzNDY5MA&ixlib=rb-1.2.1&q=80&w=1080 800 600 '"Starting a Startup"' %}
 
+# How to Start a Startup?
 
 So you want to start a startup. How do you start? Let’s cover the basic steps.
 
