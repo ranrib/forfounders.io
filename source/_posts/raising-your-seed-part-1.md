@@ -1,5 +1,5 @@
 ---
-title: Raising Your Seed - Preparing for the Round
+title: Raising Your Seed, Part 1: Preparing for the Round
 date: 2022-06-24 15:00:00
 tags: [blog, startups, entrepreneurship, fundraising, investors, vc]
 image: https://images.unsplash.com/photo-1633158829875-e5316a358c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0OTAzNDY5MA&ixlib=rb-1.2.1&q=80&w=1080
@@ -8,7 +8,7 @@ image: https://images.unsplash.com/photo-1633158829875-e5316a358c6f?crop=entropy
 {% img https://images.unsplash.com/photo-1633158829875-e5316a358c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0OTAzNDY5MA&ixlib=rb-1.2.1&q=80&w=1080 800 600 '"Raising Your Seed Round"' %}
 
 
-# Raising Your Seed - Preparing for the Round
+# Raising Your Seed, Part 1: Preparing for the Round
 
 Fundraising is one of the fundamental aspects of a startup. But unfortunately, it’s also one of the most challenging areas. So we’ll try to make it simpler here. This blog series will cover the basics of raising your seed round - from getting ready for the round to meeting investors and eventually having money in the bank.
 
