@@ -1,5 +1,5 @@
 ---
-title: Raising Your Seed - Part 1: Preparing for the Round
+title: "Raising Your Seed - Part 1: Preparing for the Round"
 date: 2022-06-24 15:00:00
 tags: [blog, startups, entrepreneurship, fundraising, investors, vc]
 image: https://images.unsplash.com/photo-1633158829875-e5316a358c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0OTAzNDY5MA&ixlib=rb-1.2.1&q=80&w=1080
