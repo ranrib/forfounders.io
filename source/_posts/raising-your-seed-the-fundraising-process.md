@@ -1,5 +1,5 @@
 ---
-title: Raising Your Seed - Part 2: The Fundraising Process
+title: "Raising Your Seed - Part 2: The Fundraising Process"
 date: 2022-07-24 15:00:00
 tags: [blog, startups, entrepreneurship, fundraising, investors, vc]
 image: https://images.unsplash.com/photo-1421218108559-eb1ff78357f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY0OTAzNDY5MA&ixlib=rb-1.2.1&q=80&w=1080
