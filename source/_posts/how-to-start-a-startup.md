@@ -4,8 +4,6 @@ date: 2022-06-12 13:40:16
 tags: [blog, startups, entrepreneurship]
 ---
 
-# How to Start a Startup?
-
 So you want to start a startup. How do you start? Let’s cover the basic steps.
 
 ## Quitting your job
