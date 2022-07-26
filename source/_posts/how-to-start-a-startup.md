@@ -6,7 +6,7 @@ tags: [blog, startups, entrepreneurship]
 
 So you want to start a startup. How do you start? Let’s cover the basic steps.
 
-## Quitting your job
+### Quitting your job
 
 Assuming you are currently working somewhere, you’ll need to quit your job first. But you want to quit your job only when your startup (or startup idea) is mature enough - but how do you get to this maturity if you work a full-time job? That is a classic chicken and egg problem.
 
@@ -18,7 +18,7 @@ From our experience, quitting your job is essential; the earlier, the better, fo
 
 Quitting your job is a risk - the first risk every entrepreneur has to take early on. Not to mention that when you get to the fundraising stage, this is almost a must. Serious investors expect you to show that you are 100% committed to this startup.
 
-## Finding your co-founders
+### Finding your co-founders
 
 Everyone talks about co-founders - that person (or people) you will spend the next 5-10 years with, and how important it is to find the right ones. But before thinking about how to find them, you should ask yourself - do I even need them? Not necessarily. Some of the most successful companies had a single founder (Jeff Bezos), so it’s a valid option.
 
@@ -26,13 +26,13 @@ However, from our experience, having a partner (and it is a partner!) is highly 
 
 In any case, everyone seems to agree that it’s crucial to take all the time you need to find the right co-founder. Don’t rush into a decision that doesn’t sit well.
 
-## The logistics (or - legal stuff)
+### The logistics (or: legal stuff)
 
 Do you need a founder agreement? Why? How do you get one?
 
 It comes down to knowing what you know and don’t know. Get a good lawyer early, someone who knows startups and fundraising. They will help you understand what is essential at this early stage. Regarding a founder’s agreement - yes. It is possible, even expected, that sometimes one of the founders will realize early on that a startup isn’t for them. Whether the reason is financial, personal, or other, it’s essential to have a document that protects the other founder and allows them to continue building the company.
 
-## Ideation
+### Ideation
 
 So you quit your job, have a co-founder, and now you need to start doing something. It may seem impossible, but we can offer some practical tools to find the problem that deserves to be solved. Be methodical!
 
@@ -46,7 +46,7 @@ Do you have a passion for the market? People often feel they need to have a pass
 
 Don’t spend too much time on building the actual product. Building an MVP for a B2B product with no resources (=programmers) is very difficult. It can take years. Instead, try to focus on market validation and use mockups to get customer feedback. Then, once you raise your seed round, you can run 10x faster with a kickass core engineering team.
 
-## Market validation
+### Market validation
 
 So you put a lot of thinking and believe that you should solve a problem in a big, growing market, where you have expertise. But this is still only what you think. Now is the time to validate it with the market.
 
@@ -58,7 +58,7 @@ It’s also important to know _how_ to ask questions. We recommend the book [The
 
 The market validation is the most crucial part of a strong investor’s deck. In the deck, you should have a few slides showing customers you spoke with and highlighted quotes from customers that describe their problems. Ideally, some of these customers are referenceable, so your investor can chat with them.
 
-## What’s next? Fundraising!
+### What’s next? Fundraising!
 
 In the following episodes, we’ll talk about raising your seed round and how to start building your company!
 
