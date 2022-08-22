@@ -37,14 +37,14 @@ Some of these might be new to you, but you will find them extremely helpful in s
 - **#share-content**: no more wondering where to post work-related content! Anything that isn’t competition goes here.
 - **Deal-based Slack channels**: whenever possible, create a [shared Slack channel][1] and invite the customer to add their people. Shared channels work amazingly well in solution selling, where multiple stakeholders are involved and provide fast technical support to the customer. In parallel, create an internal channel named #internal-\[customer name\], where only your team members share information about the deal.
 
-### The special additions
+### The Special Additions
 
 Provide a pleasant or fun experience to employees.
 
 - **#wins**: celebrate wins across the company - only happy stuff in this channel, so why wouldn’t you join it?
 - **#mentions**: get notifications about mentions of your company online (or a competitor). We used [Mention][2], which has a built-in Slack integration. It helped us discover lots of valuable information.
 
-### Automation comes in handy
+### Automation Comes In Handy
 
 We used automation and particularly [Zapier][3] to push all sorts of updates to Slack, the top being:
 
