@@ -18,7 +18,7 @@ Over the four years of Epsagon, we crafted a Slack channel framework that worked
 
 These channels have a well-defined and easy-to-understand purpose, making employees’ life much easier when it comes to Slack communication.
 
-### The obvious
+### The Obvious
 
 If you don’t have any of these, start here.
 
@@ -28,7 +28,7 @@ If you don’t have any of these, start here.
 - **#support**: when a customer has a problem.
 - **#dev**: where developers hang out.
 
-### The game changers
+### The Game Changers
 
 Some of these might be new to you, but you will find them extremely helpful in streamlining internal communication.
 
@@ -54,7 +54,7 @@ We used automation and particularly [Zapier][3] to push all sorts of updates to 
 - **Product sign-ups**: a valuable channel for keeping track of new users.
 - **Subscriptions: if your product supports self-service, this becomes a fun channel where everyone can see new paying customers.**
 
-## Start from day one
+## Start From Day One
 
 Creating these channels from day one, even if the company is still tiny, will set the foundation for effective communication in Slack. Even if you already have many employees, it’s not too late! You can start improving your startup’s Slack communication today.
 
