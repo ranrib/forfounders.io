@@ -4,8 +4,6 @@ date: 2022-09-19 09:00:00
 tags: [blog, startups, fundraising, vc, customers, due-diligence]
 ---
 
-# How to Prep a Customer for a VC Reference Call
-
 Customer reference calls are one of the last parts of a VC due-diligence process. VC like it because they can hear an actual user of your product tell them about their experience. While this is an excellent opportunity for a founder to gain credibility with the potential investor, you must take it seriously.
 
 Following these simple steps will ensure that you maximize the outcome of these customer reference calls:
