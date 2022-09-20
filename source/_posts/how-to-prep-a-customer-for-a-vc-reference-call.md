@@ -1,7 +1,7 @@
 ---
 title: How to Prep a Customer for a VC Reference Call
 date: 2022-09-19 09:00:00
-tags: [blog, startups, fundraising, vc, customers, diligence]
+tags: [blog, startups, fundraising, vc, customers, due-diligence]
 ---
 
 # How to Prep a Customer for a VC Reference Call
